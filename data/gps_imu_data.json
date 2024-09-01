@@ -1,0 +1,18 @@
+{
+    "utc_time": "121527",
+    "latitude": "40.3444891 N",
+    "longitude": "116.66634199999999 E",
+    "latitude_dms": "40\u00b020'40.16\"",
+    "longitude_dms": "116\u00b039'58.83\"",
+    "number_of_satellites": "7",
+    "altitude": "67.319M",
+    "true_north_heading": "\u00b0",
+    "magnetic_north_heading": "\u00b0",
+    "ground_speed_kn": "",
+    "ground_speed_kph": "",
+    "x_accel_ms2": 0.19125,
+    "y_accel_ms2": 1.18575,
+    "z_accel_ms2": 10.44225,
+    "heading_raw_degrees": 312.0891621738323,
+    "heading_filtered_degrees": 294.14831372380206
+}
